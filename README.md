@@ -14,7 +14,7 @@ This Website collects people's email so that they can be updated about any parti
 
        
       Frontend - HTML , CSS.
-      Backend  - MySql , Node.js
+      Backend  - MySql , Express.js
 
 
 
@@ -49,6 +49,8 @@ This Website collects people's email so that they can be updated about any parti
  &#8594; (FAKER Documentation) https://www.npmjs.com/package/faker
 
   &#8594; (NPM Documentation) https://www.npmjs.com/package/faker
+  
+  &#8594; (NPM Documentation) https://expressjs.com/
 
 ![App Screenshot](https://github.com/Shreyan101/Mailing_list/blob/main/images/home.ejs%20(join_us)%20-%20goormIDE%20-%20Google%20Chrome%2028-09-2021%2018_07_36.png?raw=true)
 
